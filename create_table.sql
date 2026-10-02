@@ -10,4 +10,4 @@
 -- mobile int(100)
 -- );
 
-select * from web_user
+-- select * from web_user
